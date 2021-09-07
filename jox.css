@@ -1,8 +1,10 @@
 body{
     background-color: #e1e1ff;
     text-align: center;
+    font-size: large;
 }
 
 div{
     text-align: left;
+    font-size: large;
 }
